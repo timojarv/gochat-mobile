@@ -1,0 +1,7 @@
+export const MESSAGE_RECEIVE = "@@gochat/message/receive"
+export const MESSAGE_SEND = "@@gochat/message/send"
+export const MESSAGE_RESTORE = "@@gochat/message/restore"
+export const USERNAME_SET = "@@gochat/username/set"
+export const AUTH = "@@gochat/auth/true"
+export const DEAUTH = "@@gochat/auth/false"
+export const FLUSH_STATE = "@@gochat/state/flush"
